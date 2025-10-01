@@ -4,6 +4,8 @@ description: Lecture notes on estimators, observers, and optimal estimators.
 file: /courses/16-323-principles-of-optimal-control-spring-2008/d53cb1ff30a49af18dc8b61572eeb1a1_lec11.pdf
 file_size: 626087
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

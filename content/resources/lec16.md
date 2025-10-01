@@ -5,6 +5,8 @@ description: Lecture notes on model predictive control, also known as receding h
 file: /courses/16-323-principles-of-optimal-control-spring-2008/d8ed0f43c8fbb7a6ee462942cd1fc511_lec16.pdf
 file_size: 570371
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

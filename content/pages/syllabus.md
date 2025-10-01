@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides course meeting times, objectives, approximate
   number of lectures per topics, grading criteria, prerequisites, and other polices.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

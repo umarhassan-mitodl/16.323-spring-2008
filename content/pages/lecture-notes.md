@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the lecture notes from the course along with information
   on lecture topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -107,7 +109,7 @@ HJB equation: differential pressure in continuous time, HJB equation, continuous
 
 Calculus of variations
 
-Most books cover this material well, but Kirk (chapter 4) does a particularly nice job. See {{% resource_link "463cd8cf-a638-4e09-963e-e4ebbe06655c" "here" %}} for an online reference.
+Most books cover this material well, but Kirk (chapter 4) does a particularly nice job. See [here](http://mathworld.wolfram.com/CalculusofVariations.html) for an online reference.
 
 
 {{< tdclose >}}
