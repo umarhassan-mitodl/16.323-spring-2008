@@ -4,8 +4,6 @@ description: Lecture notes on numerical solution in MATLAB.
 file: /courses/16-323-principles-of-optimal-control-spring-2008/a56c46663540c5519e17bb22759b99aa_lec7.pdf
 file_size: 669806
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

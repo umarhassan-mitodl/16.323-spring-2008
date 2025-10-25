@@ -28,7 +28,6 @@
     "website": "16-323-principles-of-optimal-control-spring-2008"
   },
   "course_title": "Principles of Optimal Control",
-  "hide_download": true,
   "course_description": "This course studies basic optimization and the principles of optimal control. It considers deterministic and stochastic problems for both discrete and continuous systems. The course covers solution methods including numerical search algorithms, model predictive control, dynamic programming, variational calculus, and approaches based on Pontryagin's maximum principle, and it includes many examples and applications of the theory.\n",
   "department_numbers": [
     "16"
@@ -39,7 +38,6 @@
     "content": "36f7bbf7-cace-d320-1a2a-12e28afb4a79",
     "website": "16-323-principles-of-optimal-control-spring-2008"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

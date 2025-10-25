@@ -4,8 +4,6 @@ description: Midterm exam on optimal control from 2006, provided here for practi
 file: /courses/16-323-principles-of-optimal-control-spring-2008/b56f960543c63289de3fcec9371db318_2006midterm1.pdf
 file_size: 130213
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
